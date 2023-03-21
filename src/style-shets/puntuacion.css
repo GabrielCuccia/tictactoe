@@ -1,0 +1,22 @@
+.contenedor{
+    background-color: white;
+    display: flex;
+    width: 100px;
+    border-radius: 8px;
+    flex-direction: column;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.wins{
+    margin: 0;
+    font-weight: 700;
+    color: #192a32;
+
+}
+.who{
+    font-weight: 700;
+    font-size: 12px;
+    color: #192a32;
+    margin: 0;
+}
